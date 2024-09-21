@@ -7,7 +7,7 @@ export default {
         image: '/profile.png' // Replace with your actual profile image URL
       },
       socials: [
-        { platform: 'Email', url: 'mailto: indraklana23@gmail.com', icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png' } // Updated icon URL
+        { platform: 'Email', url: 'mailto:indraklana23@gmail.com', icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png' } // Updated icon URL
       ],
       externalLinks: [
         { platform: 'Facebook', url: 'https://www.facebook.com/Indralana178', icon: 'https://cdn-icons-png.flaticon.com/512/733/733547.png', name: 'Facebook' },
