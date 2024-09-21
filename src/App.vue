@@ -4,7 +4,7 @@ export default {
     return {
       profile: {
         name: 'indralana',
-        image: '/profile.png' // Replace with your actual profile image URL
+        image: '/image.png' // Replace with your actual profile image URL
       },
       socials: [
         { platform: 'Email', url: 'mailto:indraklana23@gmail.com', icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png' } // Updated icon URL
