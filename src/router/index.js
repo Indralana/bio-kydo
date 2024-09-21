@@ -38,7 +38,7 @@ const router = createRouter({
   routes
 })
 router.beforeEach((to, from, next) => {
-  document.title = to.meta.title + ' - kydo();'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
+  document.title = to.meta.title + ' - indralana();'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
   next();
 });
 
